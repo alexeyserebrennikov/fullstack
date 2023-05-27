@@ -29,7 +29,7 @@
 3. Выполните команду `npm install`, чтобы установить все зависимости клиентской части проекта.
 4. Выполните команду `npm run start`, чтобы запустить клиентскую часть проекта.
 5. Откройте браузер и перейдите по адресу `http://localhost:3000`. Вы увидите приложение, которое использует шаблон Minimal Free – React Admin Dashboard (источники: https://mui.com/store/items/minimal-dashboard-free/
-https://github.com/minimal-ui-kit/material-kit-react)
+| https://github.com/minimal-ui-kit/material-kit-react)
 
 ### Навигация к таблицам
 
@@ -42,5 +42,3 @@ https://github.com/minimal-ui-kit/material-kit-react)
 - В файле `\client\src\layouts\dashboard\nav\config.js` добавлена вкладка "Table" в боковом меню.
 - Добавлена иконка для таблицы.
 - В разных частях проекта внесены незначительные изменения.
-
-Теперь вы должны быть в состоянии установить и запустить проект успешно.
